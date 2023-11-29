@@ -28,7 +28,7 @@ The design inspiration for this project continues to be influenced by the [Insta
 
 ### 🚀 Deployment
 
-[Live Demo](#) | [Codebase](https://github.com/mchmdirvan/alterra_code-competence-2)
+[Live Demo](https://alterra-code-competence-2.vercel.app/) | [Codebase](https://github.com/mchmdirvan/alterra_code-competence-2)
 
 ### 🛠 Built With
 
