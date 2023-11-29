@@ -8,7 +8,7 @@ import * as z from "zod";
 
 import { Input, TextArea } from "../components/Form";
 import Navbar from "../components/Navbar";
-import Button from "../components/button";
+import Button from "../components/Button";
 import Footer from "../components/Footer";
 
 import ImageHero from "../assets/medium-shot-smiley-man-eating-food.jpg";
