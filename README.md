@@ -1,4 +1,4 @@
-![App Screenshot](/screenshots/screenshots.png)
+![App Screenshot](/Screenshots/screenshots.png)
 
 ## 📖 About This Project
 
